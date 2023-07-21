@@ -1,0 +1,4 @@
+venv/
+.idea
+.env
+for_test_auth.py
